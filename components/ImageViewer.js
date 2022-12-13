@@ -1,7 +1,9 @@
 import { StyleSheet, Image } from 'react-native';
 
 
-const PlaceholderImage = require('./assets/imagenes/Holamundo.jpg');
+
+
+
 export default function ImageViewer({ placeholderImageSource}) {
 
     return (
